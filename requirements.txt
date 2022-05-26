@@ -1,0 +1,12 @@
+# local package
+-e .
+
+# external requirements
+cookiecutter
+dvc 
+numpy
+pandas 
+sklearn 
+mlflow
+joblib
+flask 
